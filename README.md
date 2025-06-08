@@ -1,6 +1,9 @@
-# circlemate
+# Half Side Circular Avatar List UI
 
-A new Flutter project.
+### Video
+
+https://github.com/user-attachments/assets/d299a147-41be-47d5-9e17-b50c7bc41b9d
+
 
 ## Getting Started
 
